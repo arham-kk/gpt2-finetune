@@ -1,6 +1,6 @@
-# Model Training, Testing, and Parameters
+# GPT 2 Finetune
 
-This README provides an overview of the code for training, testing, and key parameters for a text generation model using the GPT-2 architecture. The code covers the following steps:
+This is an overview of the code for fine tunning a text generation model using the GPT-2 architecture and a csv dataset. The code covers the following steps:
 
 ## 1. Installing Dependencies
 
